@@ -17,7 +17,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=9377918" />
 <div style="display: flex; justify-content: space-between;">
     <div>
 
-- :office: &nbsp;I'm currently working at **Virtusa**
+- :office: &nbsp;I'm currently working at **99x**
 - :seedling: &nbsp;I’m currently learning about **"Microservice Development with Spring"**
 - :speech_balloon: &nbsp;I like to talk about **football** and **blockchains**
 - :mailbox: &nbsp;Ask me anything **[here]**

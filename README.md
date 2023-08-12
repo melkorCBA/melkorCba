@@ -18,10 +18,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=9377918" />
     <div>
 
 - :office: &nbsp;I'm currently working at **99x**
-- :seedling: &nbsp;I’m currently learning about **"Microservice Development with Spring"**
-- :speech_balloon: &nbsp;I like to talk about **football** and **blockchains**
+- :seedling: &nbsp;I’m currently learning about **"Frontend testing"**
+- :speech_balloon: &nbsp;I like to talk about **football** and **movies**
 - :mailbox: &nbsp;Ask me anything **[here]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/cbashikadesilva/)**
 
     </div>
     <div>

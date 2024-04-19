@@ -18,8 +18,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=9377918" />
     <div>
 
 - :office: &nbsp;I'm currently working at **99x**
-- :seedling: &nbsp;I’m currently learning about **"Frontend testing"**
-- :speech_balloon: &nbsp;I like to talk about **football** and **movies**
+- :seedling: &nbsp;I’m currently pump about **"NLP"**
+- :speech_balloon: &nbsp;I like to talk about **Sports** and **movies**
 - :mailbox: &nbsp;Ask me anything **[here]**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/cbashikadesilva/)**
 
